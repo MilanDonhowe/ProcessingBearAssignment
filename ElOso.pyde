@@ -109,7 +109,7 @@ def draw():
     ellipse(540+Eye_pos, 210+Eye_height, 60 + Expand, 60 + Expand)
     
     #SAVE FRAME
-    saveFrame("Output/line-########.png")
+    #saveFrame("Output/line-########.png")
     
     
     
